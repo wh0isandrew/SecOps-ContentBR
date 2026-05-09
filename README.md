@@ -6,7 +6,7 @@ Criei esse repositório para deixar documentado as plataformas voltadas para tre
 
 | Plataforma            | Modelo                                     | Nível Recomendado       | Tem Desconto de Estudante?                           | Preço Mensal s/ Desconto         | Preço Final c/ Desconto          |
 | --------------------- | ------------------------------------------ | ------------------------ | ---------------------------------------------------- | --------------------------------- | --------------------------------- |
-| TryHackMe             | Free + Premium + Certificações           | Iniciante                | SIM<br />**Obs: Apenas na subscrição anual** | $11.99                       |  R$353.89 / $72.00                                 |
+| TryHackMe             | Free + Premium + Certificações           | Iniciante                | SIM<br />**Obs: Apenas na subscrição anual** | $11.99                       |   $72.00                                 |
 | LetsDefend            | Free + Assinatura                          | Iniciante                | SIM                                                  | VIP - R$35.00<br />VIP+ - R$79.99 | VIP - R$18.00<br />VIP+ - R$39.99 |
 | Blue Team Labs Online | Free + Assinatura                          | Básico a Intermediário | NÃO                                                 | £15                              | N/A                               |
 | CyberDefenders        | Free + Assinatura + Certificações        | Básico a Intermediário | SIM                                                  | $20                               | A confirmar                       |
