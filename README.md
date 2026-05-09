@@ -6,11 +6,11 @@ Criei esse repositório para deixar documentado as plataformas voltadas para tre
 
 | Plataforma            | Modelo                                     | Nível Recomendado       | Tem Desconto de Estudante?                           | Preço Mensal s/ Desconto         | Preço Final c/ Desconto          |
 | --------------------- | ------------------------------------------ | ------------------------ | ---------------------------------------------------- | --------------------------------- | --------------------------------- |
-| TryHackMe             | Free + Premium + Certificações           | Iniciante                | SIM<br />**Obs: Apenas na subscrição anual** | $11.99                            |                                   |
+| TryHackMe             | Free + Premium + Certificações           | Iniciante                | SIM<br />**Obs: Apenas na subscrição anual** | $$11.99$                        |                                   |
 | LetsDefend            | Free + Assinatura                          | Iniciante                | SIM                                                  | VIP - R$35.00<br />VIP+ - R$79.99 | VIP - R$18.00<br />VIP+ - R$39.99 |
 | Blue Team Labs Online | Free + Assinatura                          | Básico a Intermediário | NÃO                                                 | £15                              | N/A                               |
 | CyberDefenders        | Free + Assinatura + Certificações        | Básico a Intermediário | SIM                                                  | $20                               | A confirmar                       |
-| HackTheBox Academy    | Free + Cubes/Assinaturas + Certificações | Básico                  | SIM                                                  | A confirmar                       | A confirmar                       |
+| HackTheBox Academy    | Free + Cubes/Assinaturas + Certificações | Básico                  | SIM                                                  | A confirmar                       | $8                                |
 | AntiSyphon Training   | Free + Cursos pagos                        | Básico a Intermediário | N/A                                                  | N/A                               | N/A                               |
 
 ## Como Escolher
@@ -50,8 +50,6 @@ Abaixo está o link para cada plataforma e seu respectivo passo-a-passo de como 
 [HackTheBox](https://help.hackthebox.com/en/articles/13465244-getting-the-student-subscription)
 
 [CyberDefenders](https://help.cyberdefenders.org/en/articles/8698393-student-discount)
-
----
 
 ## Notas Sobre Preços
 
