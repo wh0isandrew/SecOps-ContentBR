@@ -10,7 +10,7 @@ Criei esse repositório para deixar documentado as plataformas voltadas para tre
 | LetsDefend            | Free + Assinatura                          | Iniciante                | SIM                                                  | VIP - R$35.00<br />VIP+ - R$79.99 | VIP - R$18.00<br />VIP+ - R$39.99 |
 | Blue Team Labs Online | Free + Assinatura                          | Básico a Intermediário | NÃO                                                 | £15                              | N/A                               |
 | CyberDefenders        | Free + Assinatura + Certificações        | Básico a Intermediário | SIM                                                  | $20                               | A confirmar                       |
-| HackTheBox Academy    | Free + Cubes/Assinaturas + Certificações | Básico                  | SIM                                                  | A confirmar                       | $8                                |
+| HackTheBox Academy    | Free + Cubes/Assinaturas + Certificações | Básico                  | SIM                                                  | $18                    | $8                                |
 | AntiSyphon Training   | Free + Cursos pagos                        | Básico a Intermediário | N/A                                                  | N/A                               | N/A                               |
 
 ## Como Escolher
