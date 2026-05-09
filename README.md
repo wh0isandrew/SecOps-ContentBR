@@ -21,7 +21,7 @@ Caso você já tenha os conhecimentos básicos e esteja disposto a investir mais
 
 Observação importante:
 
-O AntiSyphon Training oferece alguns cursos na modalidade *pay-what-you-can*, o que significa que se você não tem condições, você pode fazer ele gratuitamente. O curso se chama SOC Core Skills w/ John Strand e inclusive, ele está no [YouTube](https://www.youtube.com/watch?v=owTeQpGXcYs&list=PL-4fuTjKox5eXmtpMEDBhNOJuNgmQLLD7&index=4)de forma gratuita, para aqueles que possuem os conhecimentos básicos e para quem deseja revisitar os fundamentos com um professor que costumava ser um instrutor da SANS, é uma ótima opção.
+O AntiSyphon Training oferece alguns cursos na modalidade *pay-what-you-can*, o que significa que se você não tem condições, você pode fazer ele gratuitamente. O curso se chama SOC Core Skills w/ John Strand e inclusive, ele está no [YouTube](https://www.youtube.com/watch?v=owTeQpGXcYs&list=PL-4fuTjKox5eXmtpMEDBhNOJuNgmQLLD7&index=4) de forma gratuita, para aqueles que possuem os conhecimentos básicos e para quem deseja revisitar os fundamentos com um professor que costumava ser um instrutor da SANS, é uma ótima opção.
 
 Abaixo estão o syllabus das plataformas que possuem trilhas de aprendizado voltados para Security Operations:
 
