@@ -4,14 +4,14 @@ Criei esse repositório para deixar documentado as plataformas voltadas para tre
 
 ## Plataformas
 
-| Plataforma            | Modelo                                     | Nível Recomendado       | Tem Desconto de Estudante?                           | Preço Mensal s/ Desconto         | Preço Final c/ Desconto          |
-| --------------------- | ------------------------------------------ | ------------------------ | ---------------------------------------------------- | --------------------------------- | --------------------------------- |
-| TryHackMe             | Free + Premium + Certificações           | Iniciante                | SIM<br />**Obs: Apenas na subscrição anual** | $11.99                       |   $72.00                                 |
-| LetsDefend            | Free + Assinatura                          | Iniciante                | SIM                                                  | VIP - R$35.00<br />VIP+ - R$79.99 | VIP - R$18.00<br />VIP+ - R$39.99 |
-| Blue Team Labs Online | Free + Assinatura                          | Básico a Intermediário | NÃO                                                 | £15                              | N/A                               |
-| CyberDefenders        | Free + Assinatura + Certificações        | Básico a Intermediário | SIM                                                  | $20                               | A confirmar                       |
-| HackTheBox Academy    | Free + Cubes/Assinaturas + Certificações | Básico                  | SIM                                                  | $18                    | $8                                |
-| AntiSyphon Training   | Free + Cursos pagos                        | Básico a Intermediário | N/A                                                  | N/A                               | N/A                               |
+| Plataforma            | Modelo                                     | Nível Recomendado       | Tem Desconto de Estudante?                           | Preço Mensal s/ Desconto               | Preço Final c/ Desconto          |
+| --------------------- | ------------------------------------------ | ------------------------ | ---------------------------------------------------- | --------------------------------------- | --------------------------------- |
+| TryHackMe             | Free + Premium + Certificações           | Iniciante                | SIM<br />**Obs: Apenas na subscrição anual** | $11.99                       |   $72.00 |                                   |
+| LetsDefend            | Free + Assinatura                          | Iniciante                | SIM                                                  | VIP - R$35.00<br />VIP+ - R$79.99       | VIP - R$18.00<br />VIP+ - R$39.99 |
+| Blue Team Labs Online | Free + Assinatura                          | Básico a Intermediário | NÃO                                                 | £15                                    | N/A                               |
+| CyberDefenders        | Free + Assinatura + Certificações        | Básico a Intermediário | SIM                                                  | $20                                     | A confirmar                       |
+| HackTheBox Academy    | Free + Cubes/Assinaturas + Certificações | Básico                  | SIM                                                  | $18                    | $8             |                                   |
+| AntiSyphon Training   | Free + Cursos pagos                        | Básico a Intermediário | N/A                                                  | N/A                                     | N/A                               |
 
 ## Como Escolher
 
@@ -54,3 +54,17 @@ Abaixo está o link para cada plataforma e seu respectivo passo-a-passo de como 
 ## Notas Sobre Preços
 
 Precos mudam com frequência, principalmente planos mensais, descontos de estudante, campanhas e checkout regionais. Tentarei manter os valores atualizados com frequência.
+
+---
+
+## Bônus
+
+Está estudando mas quer saber como as intrusões acontecem?
+
+[The DFIR Report](https://thedfirreport.com/reports/) tem reports públicos e anonimizados sobre intrusões com todos os detalhes técnicos sobre cada etapa da intrusão e análise dos comportamentos observados.
+
+O que faz um analista ser bom? Esse blog post do Jai Minton explica muito bem: [HISAC - High Impact Security Analysis and Communication](https://www.jaiminton.com/internal-blog/high-impact-security-analysis)
+
+O blog de um profissional monstruoso voltado para Windows Incidente Response: [Windows Incident Response](https://windowsir.blogspot.com/)
+
+Uma ótima palestra realizada na BSides London sobre anotações e escrita de relatório para analistas: [Storytelling For SOC Analysts: Effective Investigation Notetaking And Report Writing - Han O’Connor](https://youtu.be/-naji8brewU)
