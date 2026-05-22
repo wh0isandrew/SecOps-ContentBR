@@ -4,14 +4,14 @@ Criei esse repositório para deixar documentado as plataformas voltadas para tre
 
 ## Plataformas
 
-| Plataforma            | Modelo                                     | Nível Recomendado       | Tem Desconto de Estudante?                           | Preço Mensal s/ Desconto               | Preço Final c/ Desconto          |
-| --------------------- | ------------------------------------------ | ------------------------ | ---------------------------------------------------- | --------------------------------------- | --------------------------------- |
-| TryHackMe             | Free + Premium + Certificações           | Iniciante                | SIM<br />**Obs: Apenas na subscrição anual** | $11.99                       |   $72.00 |                                   |
-| LetsDefend            | Free + Assinatura                          | Iniciante                | SIM                                                  | VIP - R$35.00<br />VIP+ - R$79.99       | VIP - R$18.00<br />VIP+ - R$39.99 |
-| Blue Team Labs Online | Free + Assinatura                          | Básico a Intermediário | NÃO                                                 | £15                                    | N/A                               |
-| CyberDefenders        | Free + Assinatura + Certificações        | Básico a Intermediário | SIM                                                  | $20                                     | A confirmar                       |
-| HackTheBox Academy    | Free + Cubes/Assinaturas + Certificações | Básico                  | SIM                                                  | $18                    | $8             |                                   |
-| AntiSyphon Training   | Free + Cursos pagos                        | Básico a Intermediário | N/A                                                  | N/A                                     | N/A                               |
+| Plataforma            | Modelo                                     | Nível Recomendado       | Tem Desconto de Estudante?                           | Preço Mensal s/ Desconto         | Preço Final c/ Desconto          |
+| --------------------- | ------------------------------------------ | ------------------------ | ---------------------------------------------------- | --------------------------------- | --------------------------------- |
+| TryHackMe             | Free + Premium + Certificações           | Iniciante                | SIM<br />**Obs: Apenas na subscrição anual** | $11.99                       |   $72.00                                 |
+| LetsDefend            | Free + Assinatura                          | Iniciante                | SIM                                                  | VIP - R$35.00<br />VIP+ - R$79.99 | VIP - R$18.00<br />VIP+ - R$39.99 |
+| Blue Team Labs Online | Free + Assinatura                          | Básico a Intermediário | NÃO                                                 | £15                              | N/A                               |
+| CyberDefenders        | Free + Assinatura + Certificações        | Básico a Intermediário | SIM                                                  | $20                               | $10                       |
+| HackTheBox Academy    | Free + Cubes/Assinaturas + Certificações | Básico a Intermediário                 | SIM                                                  | $18                    | $8                                |
+| AntiSyphon Training   | Free + Cursos pagos                        | Básico a Intermediário | N/A                                                  | N/A                               | N/A                               |
 
 ## Como Escolher
 
