@@ -63,8 +63,14 @@ Está estudando mas quer saber como as intrusões acontecem?
 
 [The DFIR Report](https://thedfirreport.com/reports/) tem reports públicos e anonimizados sobre intrusões com todos os detalhes técnicos sobre cada etapa da intrusão e análise dos comportamentos observados.
 
-O que faz um analista ser bom? Esse blog post do Jai Minton explica muito bem: [HISAC - High Impact Security Analysis and Communication](https://www.jaiminton.com/internal-blog/high-impact-security-analysis)
+O que faz um analista ser bom? Esse blog post do Jai Minton explica muito bem: 
 
-O blog de um profissional monstruoso voltado para Windows Incidente Response: [Windows Incident Response](https://windowsir.blogspot.com/)
+[HISAC - High Impact Security Analysis and Communication](https://www.jaiminton.com/internal-blog/high-impact-security-analysis)
 
-Uma ótima palestra realizada na BSides London sobre anotações e escrita de relatório para analistas: [Storytelling For SOC Analysts: Effective Investigation Notetaking And Report Writing - Han O’Connor](https://youtu.be/-naji8brewU)
+O blog de um profissional monstruoso voltado para Windows Incident Response: 
+
+[Windows Incident Response](https://windowsir.blogspot.com/)
+
+Uma ótima palestra realizada na BSides London sobre anotações e escrita de relatório para analistas: 
+
+[Storytelling For SOC Analysts: Effective Investigation Notetaking And Report Writing - Han O’Connor](https://youtu.be/-naji8brewU)
